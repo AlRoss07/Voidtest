@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "localhost",
+    "port": 5432,
+    "username": "Alex Rosario",
+    "password": "test123",
+    "database": "lol_backend",
+    "entities": ["src/**/*.entity{.ts,.js}"],
+    "synchronize": true
+  }
+  
